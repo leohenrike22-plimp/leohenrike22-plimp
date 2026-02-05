@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo
 
-<img src="https://www.clipartmax.com/png/middle/219-2199166_flying-money-gif.png" alt="Dinheiro Voador Gif@clipartmax.com">
+<div class="tenor-gif-embed" data-postid="14620590" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/money-cash-mula-stacks-fly-gif-14620590">Money Cash Sticker</a>from <a href="https://tenor.com/search/money-stickers">Money Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 Sou um criador prático, direto ao ponto e movido por projetos reais. Gosto de aprender **fazendo**, errando rápido e melhorando sem romantizar processo.
 
