@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Olá, eu sou Leonardo
 
-<!--
-**leohenrike22-plimp/leohenrike22-plimp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Aguarde. O próximo passo já está em movimento.*
 
-Here are some ideas to get you started:
+Sou um criador prático, direto ao ponto e movido por projetos reais. Gosto de aprender **fazendo**, errando rápido e melhorando sem romantizar processo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estou construindo
+
+* 💻 **Desenvolvimento**: foco em lógica, programação e construção de sistemas úteis
+* 🎮 **Game Dev**: projeto de jogo mobile **RPG 2D para Android**
+* 🎨 **Design & Branding**: identidade visual, vetorização e padronização gráfica
+* 🧠 **Aprendizado constante**: computação aplicada, não teoria vazia
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+
+* Linguagens: `Python`, `Java`, `JavaScript`
+* Design: `CorelDRAW`, `Illustrator`
+* Game Dev: `Unity (2D)`
+* Outros: `Git`, `GitHub`, lógica de programação
+
+---
+
+## 📚 Formação
+
+* 🎓 **Ciência da Computação** — Instituto Federal (IF)
+* 📐 Estudando **Geometria Analítica** e fundamentos sólidos de computação
+
+---
+
+## 📌 Projetos em destaque
+
+* 🎮 **RPG Mobile 2D** *(em desenvolvimento)*
+* 🏷️ **Identidades visuais e logos vetoriais**
+* 🧩 Sistemas e ideias voltadas para uso real
+
+*(Repositórios falam mais do que texto.)*
+
+---
+
+## 🧠 Mentalidade
+
+* Sem atalhos milagrosos
+* Sem glamour desnecessário
+* Código, design e projetos que funcionam
+
+Se é pra fazer, é pra fazer direito.
+
+---
+
+## 📫 Contato
+
+* GitHub: você já está aqui 😉
+
+---
+
+⭐ Se algum projeto te ajudar, marque uma estrela. Se não ajudar, critique — é assim que melhora.
