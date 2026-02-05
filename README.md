@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Leonardo
 
-> *Aguarde. O próximo passo já está em movimento.*
+<a href="https://www.clipartmax.com/middle/m2i8A0N4N4b1d3N4_flying-money-gif/" target="_blank">Flying Money Gif @clipartmax.com</a>
 
 Sou um criador prático, direto ao ponto e movido por projetos reais. Gosto de aprender **fazendo**, errando rápido e melhorando sem romantizar processo.
 
