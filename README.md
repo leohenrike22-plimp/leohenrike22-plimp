@@ -27,7 +27,7 @@ Sou um criador prático, direto ao ponto e movido por projetos reais. Gosto de a
 ## 📚 Formação
 
 * 🎓 **Ciência da Computação** — Instituto Federal (IF)
-* 📐 Estudando **Geometria Analítica** e fundamentos sólidos de computação
+* 📐 Estudando fundamentos sólidos de computação
 
 ---
 
